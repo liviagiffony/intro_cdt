@@ -1,0 +1,16 @@
+
+carpadio_semana = {
+         "segunda-feira": "sushi",
+         "terça-feira": "escondidinho de carna",
+}        "quarta-feira": "strogonoff de frango",
+         "quinta-feira": "lasanha",
+         "sexta-feira": "churrasco",
+         "sabado": "pizza",
+         "domingo": "hamburguer da burger flix"
+
+print('modulo04 - estrutura de dados - dicionarios /n')
+print('-' * 40)
+nome_usuario = input("digite seu nome para começar: ')
+  print('modulo04 - estrutura de dados - dicionarios /n')
+print('-' * 40) 
+                   
